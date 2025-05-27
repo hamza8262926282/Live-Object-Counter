@@ -1,0 +1,9 @@
+Save results to CSV or JSON
+
+Add GUI using Tkinter or PyQt
+
+Add tracking (e.g., DeepSORT or ByteTrack)
+
+Alert system for restricted object types
+
+Deploy as a desktop or web app
